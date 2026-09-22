@@ -1,0 +1,3 @@
+name: my-first-pipeline
+#hello world
+on: push
